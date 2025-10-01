@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme;
+
+/* Define custom colors using CSS variables */
+:root {
+  --color-brandGreen: #43a047;
+  --color-brandBrown: #8d6e63;
+  --color-accent: #ffd54f;
+}
